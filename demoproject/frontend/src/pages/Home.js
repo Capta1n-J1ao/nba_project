@@ -1,84 +1,73 @@
-import '../App.css';
 import React, {useState, useEffect} from "react";
 import Axios from 'axios';
+import './Pages.css';
+import * as AiIcons from 'react-icons/ai';
 
-function Home() {
-  const [movieName, setMovieName] = useState('');
-  const [Review, setReview] = useState('');
-  const [movieReviewList, setMovieReviewList] = useState([]);
-  const [newReview, setNewReview] = useState("");
+function App() {
+  const [userID, setUserID] = useState(1);
 
+  const [playersList, setPlayersList] = useState([]);
   useEffect(() => {
-    Axios.get('http://localhost:3002/api/get').then((response) => {
-      setMovieReviewList(response.data)
+    Axios.get(`http://localhost:3002/api/get`)
+    .then((response) => {
+      console.log(response.data)
+      setPlayersList(response.data)
     })
   },[])
+  
+  const [search, setSearch] = useState('');
+  const handleChange = e => {
+    setSearch(e.target.value);
+  };
 
-  const submitReview = () => { 
-    Axios.post('http://localhost:3002/api/insert', {
-      movieName: movieName,
-      movieReview: Review
+  // TODO: Add a new player to the team
+  const addPlayerToTeam = (userID, pID) => {
+    Axios.put(`http://localhost:3002/api/update/add_player`, {
+        userID: userID,
+        pID: pID,
     });
-    
-    setMovieReviewList([
-      ...movieReviewList,
-      {
-        movieName: movieName,
-        movieReview: Review
-      },
-    ]);
   };
 
-  const deleteReview = (movieName) => {
-    Axios.delete(`http://localhost:3002/api/delete/${movieName}`);
-  };
-
-  const updateReview = (movieName) => {
-    Axios.put(`http://localhost:3002/api/update`, {
-      movieName: movieName,
-      movieReview: newReview
-    });
-    setNewReview("")
-  };
+  const filteredPlayers = playersList.filter(player =>
+    player.pName.toLowerCase().includes(search.toLowerCase())
+  );
 
   return (
-    <div className="homeApp">
-      <h1> Player List</h1>
-      
-      <div className="form">
-        <label> Movie Name:</label>
-        <input type="text" name="movieName" onChange={(e) => {
-          setMovieName(e.target.value)
-        } }/>
-        <label> Review:</label>
-        <input type="text" name="Review" onChange={(e) => {
-          setReview(e.target.value)
-        }}/>
-        
-        <button onClick={submitReview}> Submit</button>
-
-        {movieReviewList.map((val) => {
-          return (
-            <div className = "card">
-              <h1> MovieName: {val.movieName} </h1>
-              <p>Movie Review: {val.movieReview}</p>
-              <button onClick={() => { deleteReview(val.movieName) }}> Delete</button>
-              <input type="text" id="updateInput" onChange={(e) => {
-                setNewReview(e.target.value)
-              } }/>
-              <button onClick={() => {
-                updateReview(val.movieName)
-              }}> Update</button>
-              </div>
-          );
-          
-          ;
-        })}
-
+    <div className="App">
+      <div className='player-search'>
+        <h1 className='player-text'>Search for Players</h1>
+        <form>
+          <input
+            className='player-input'
+            type='text'
+            onChange={handleChange}
+            placeholder='Search Player'
+          />
+        </form>
       </div>
-      
+
+      {filteredPlayers.map(player =>
+        <div
+          key={player.pID}> 
+          <div className = "card1">
+            <p> Name <br /> {player.pName}</p>
+            <p>Player_ID <br /> {player.pID}</p>
+            <p>Season <br /> {player.pAttr}</p>
+            <p>TeamID <br /> {player.teamID}</p>
+            <p>Position <br /> {player.pPos}</p>
+            <p>Overall <br /> {player.overall}</p>
+            <p>InsideScore <br /> {player.insideScore}</p>
+            <p>OutsideScore <br /> {player.outsideScore}</p>
+            <p>Athleticism <br /> {player.athleticism}</p>
+            <p>PlayMaking <br /> {player.playMaking}</p>
+            <p>Rebounding <br /> {player.rebounding}</p>
+            <p>Defending <br /> {player.defending}</p>
+            <button onClick={() => { addPlayerToTeam(userID, player.pID) }}className="btn btn-act" data-toggle="modal"><AiIcons.AiOutlinePlusCircle /> </button>
+            </div>
+        </div>
+      )}
     </div>
   );
 }
 
-export default Home;
+export default App;

@@ -35,7 +35,7 @@ function App() {
 
     <div className="App">
       <h1 className='player-text'>Current Mdeicine Provider</h1>
-      <div className = "card">
+      <div className = "card1">
         <p>MCProvider ID <br /> {currMCProvider.mcID}</p>
         <p>MCProvider Name <br /> {currMCProvider.mcName}</p>
         <p>Fee Per Player <br /> {currMCProvider.feePerPlayer}</p>
@@ -45,7 +45,7 @@ function App() {
       {allMCProvider.map(provider =>
         <div
           key={provider.mcID}> 
-          <div className = "card">
+          <div className = "card1">
             <p>MCProvider ID <br /> {provider.mcID}</p>
             <p>MCProvider Name <br /> {provider.mcName}</p>
             <p>Fee Per Player <br /> {provider.feePerPlayer}</p>

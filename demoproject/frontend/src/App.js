@@ -1,19 +1,18 @@
 import './App.css';
 import React, {useState, useEffect} from "react";
-// import Axios from 'axios';
+import Axios from 'axios';
+
 import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 import Home from './pages/Home';
-import Match from './pages/Match';
-import My_Team from './pages/My_Team';
+import MyTeam from './pages/MyTeam';
+import Customized from './pages/Customized';
 import Investigator from './pages/Investigator';
-import MC_Provider from './pages/MC_Provider';
-import Stadium from './pages/Stadium';
+import MCProvider from './pages/MCProvider';
+import AdvancedQuery from './pages/AdvancedQuery';
+import Page from './pages/Page';
 
-
-// start cmd:
-// npm start
-// Hook 
 function App() {
   return (
     <>
@@ -21,11 +20,13 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' element={<Home/>} />
-          <Route path='/My_Team' element={<My_Team/>} />
-          <Route path='/Match' element={<Match/>} />
+          <Route path='/My_Team' element={<MyTeam/>} />
+          <Route path='/Tournament' element={<Page/>} />
           <Route path='/Investigator' element={<Investigator/>} />
-          <Route path='/MC_Provider' element={<MC_Provider/>} />
-          <Route path='/Stadium' element={<Stadium/>} />
+          <Route path='/MC_Provider' element={<MCProvider/>} />
+          <Route path='/Stadium' element={<Page/>} />
+          <Route path='/Customized_players' element={<Customized/>} />
+          <Route path='/Advanced_Query' element={<AdvancedQuery/>} />
         </Routes>
       </Router>
     </>

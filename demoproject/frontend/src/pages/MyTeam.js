@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from "react";
 import Axios from 'axios';
+import * as AiIcons from 'react-icons/ai';
 
 // Reference
 // https://stackoverflow.com/questions/14696326/break-array-of-objects-into-separate-arrays-based-on-a-property
@@ -48,7 +49,7 @@ function App() {
         {allPlayers.map(player =>
           <div
             key={player.pID}> 
-            <div className = "card">
+            <div className = "card1">
               <p>Name <br /> {player.pName}</p>
               <p>Player_ID <br /> {player.pID}</p>
               <p>Season <br /> {player.pAttr}</p>
@@ -61,7 +62,7 @@ function App() {
               <p>PlayMaking <br /> {player.playMaking}</p>
               <p>Rebounding <br /> {player.rebounding}</p>
               <p>Defending <br /> {player.defending}</p>
-              <button onClick={() => { removePlayerFromTeam(userID, player.pID); window.location.reload(); }}> Remove from Team</button>
+              <button onClick={() => { removePlayerFromTeam(userID, player.pID); window.location.reload(); }}className="btn btn-act" data-toggle="modal"><AiIcons.AiOutlineMinusCircle /></button>
             </div>
           </div>
         )}

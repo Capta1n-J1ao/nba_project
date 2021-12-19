@@ -5,7 +5,7 @@ import * as IoIcons from 'react-icons/io';
 
 export const SidebarData = [
   {
-    title: 'Home',
+    title: 'Players',
     path: '/',
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text'
@@ -17,8 +17,8 @@ export const SidebarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Match',
-    path: '/Match',
+    title: 'Tournament',
+    path: '/Tournament',
     icon: <FaIcons.FaClipboardList />,
     cName: 'nav-text'
   },
@@ -38,6 +38,18 @@ export const SidebarData = [
     title: 'Stadium',
     path: '/Stadium',
     icon: <FaIcons.FaCity />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Customized_Players',
+    path: '/Customized_players',
+    icon: <IoIcons.IoIosHappy />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Advanced_Query',
+    path: '/Advanced_Query',
+    icon: <IoIcons.IoIosSearch />,
     cName: 'nav-text'
   }
 ];

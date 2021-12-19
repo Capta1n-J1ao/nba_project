@@ -51,7 +51,7 @@ function App() {
       {queryResult1.map(object =>
         <div
           key={object.teamName}>
-          <div className="card">
+          <div className="card1">
             <p> teamName <br /> {object[Object.keys(queryResult1[0])[0]]}</p>
             <p> MCFee <br /> {object[Object.keys(queryResult1[0])[1]]}</p>
           </div>
@@ -76,7 +76,7 @@ function App() {
       {queryResult2.map(object =>
         <div
           key={object.teamName}>
-          <div className="card">
+          <div className="card1">
             <p> arOpenYear <br /> {object[Object.keys(queryResult2[0])[0]]}</p>
             <p> capacityBuilt <br /> {object[Object.keys(queryResult2[0])[1]]}</p>
           </div>

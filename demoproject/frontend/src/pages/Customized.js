@@ -1,11 +1,18 @@
-import React, {useState, useEffect} from "react";
+import {useContext, useEffect, useState } from 'react';
+import { Modal, Button, Alert} from 'react-bootstrap';
 import Axios from 'axios';
 import './Pages.css';
+import AddForm from '../components/AddForm/AddForm.js';
+import Pagination from '../components/Pagination/Pagination.js';
+// import MaterialIcon from 'react-google-material-icons'
+import * as FaIcons from 'react-icons/ri';
+import * as AiIcons from 'react-icons/ai';
+
 
 function App() {
   const [userID, setUserID] = useState(1);
 
-  const [pID, setpID] = useState('');
+  const [pID, setpID] = useState('');          
   const [pAttr, setpAttr] = useState('');
   const [pName, setpName] = useState('');
   const [teamID, setteamID] = useState('');
@@ -19,6 +26,7 @@ function App() {
   const [playMaking, setplayMaking] = useState('');
   const [rebounding, setrebounding] = useState('');
   const [defending, setdefending] = useState('');
+
 
   // Done: Insert/Update a player's information
   const modifyPlayer = (
@@ -71,130 +79,85 @@ function App() {
       setPlayersList(response.data)
     })
   },[])
+
+    // by Damon Stage5
+    const [showAlert, setShowAlert] = useState(false);
+
+    const [show, setShow] = useState(false);
+      
+    const handleShow = () => setShow(true);
+    const handleClose = () => setShow(false);
+  
+    const handleShowAlert = () => {
+      setShowAlert(true);
+      setTimeout(()=> {
+          setShowAlert(false);
+      }, 2000)
+    }
+    useEffect(() => {
+      handleClose();
+  
+      return () => {
+          handleShowAlert();
+      }
+    }, [playersList])
+
+    // Pagination
+    const [currentPage, setCurrentPage] = useState(1);
+    const [playerPerPage] = useState(20);
+    const indexOfLastPlayer = currentPage * playerPerPage;
+    const indexOfFirstPlayer = indexOfLastPlayer - playerPerPage;
+    const currentPlayer = playersList.slice(indexOfFirstPlayer, indexOfLastPlayer);
+    console.log(currentPlayer);
+    const totalPagesNum = Math.ceil(playersList.length / playerPerPage);
   
   const [search, setSearch] = useState('');
   const handleChange = e => {
     setSearch(e.target.value);
   };
 
-  const filteredPlayers = playersList.filter(player =>
+  const filteredPlayers = currentPlayer.filter(player =>
     player.pName.toLowerCase().includes(search.toLowerCase())
   );
 
   return (
+    // <div>
     <div className="App">
-      <h1> Player Modification</h1>
-      <div className="player_update">
-        <label> Name</label>
-        <input type="text" name="pName" onChange={(e) => {
-          setpName(e.target.value)
-          console.log({pName})
-        } }/>
-        <label> Player_ID</label>
-        <input type="text" name="pID" onChange={(e) => {
-          setpID(e.target.value)
-          console.log({pID})
-        } }/>
-        <label> Season</label>
-        <input type="text" name="pAttr" onChange={(e) => {
-          setpAttr(e.target.value)
-          console.log(pAttr)
-        }}/>
-        <label> teamID</label>
-        <input type="text" name="teamID" onChange={(e) => {
-          setteamID(e.target.value)
-          console.log(teamID)
-        }}/>
-        <label> Position</label>
-        <input type="text" name="pPos" onChange={(e) => {
-          setpPos(e.target.value)
-          console.log(pPos)
-        }}/>
-        <label> pHeight</label>
-        <input type="text" name="pHeight" onChange={(e) => {
-          setpHeight(e.target.value)
-          console.log(pHeight)
-        }} />
-        <label> pWeight</label>
-        <input type="text" name="pWeight" onChange={(e) => {
-          setpWeight(e.target.value)
-          console.log(pWeight)
-        }} />
-        <label> Overall</label>
-        <input type="text" name="overall" onChange={(e) => {
-          setoverall(e.target.value)
-          console.log(overall)
-        }}/>
-
-        <br/>
-
-        <label> InsideScore</label>
-        <input type="text" name="insideScore" onChange={(e) => {
-          setinsideScore(e.target.value)
-          console.log(insideScore)
-        }}/>
-        <label> OutsideScore</label>
-        <input type="text" name="outsideScore" onChange={(e) => {
-          setoutsideScore(e.target.value)
-          console.log(outsideScore)
-        }}/>
-        <label> Athleticism</label>
-        <input type="text" name="athleticism" onChange={(e) => {
-          setathleticism(e.target.value)
-          console.log(athleticism)
-        }}/>
-        <label> PlayMaking</label>
-        <input type="text" name="playMaking" onChange={(e) => {
-          setplayMaking(e.target.value)
-          console.log(playMaking)
-        }}/>
-        <label> Rebounding</label>
-        <input type="text" name="rebounding" onChange={(e) => {
-          setrebounding(e.target.value)
-          console.log(rebounding)
-        }}/>
-        <label> Defending</label>
-        <input type="text" name="defending" onChange={(e) => {
-          setdefending(e.target.value)
-          console.log(defending)
-        }}/>
-        <br/>
+    <div className="table-title">
+        <div className="row">
+            <div className="col-sm-6">
+                <h1>Player <b>Modification</b></h1> 
+            </div>
+            <div className="col-sm-6">
+                <Button onClick={handleShow} className="btn btn-act" data-toggle="modal"><AiIcons.AiFillEdit /><span>Player Modification</span></Button>					
+            </div>
+        </div>
         
-        <button onClick={() => {
-          console.log(
-            pID,
-            pAttr,
-            pName,
-            teamID,
-            pPos,
-            pHeight,
-            pWeight,
-            overall,
-            insideScore,
-            outsideScore,
-            athleticism,
-            playMaking,
-            rebounding,
-            defending
-          )
-          modifyPlayer(
-            pID,
-            pAttr,
-            pName,
-            teamID,
-            pPos,
-            pHeight,
-            pWeight,
-            overall,
-            insideScore,
-            outsideScore,
-            athleticism,
-            playMaking,
-            rebounding,
-            defending
-          ); window.location.reload();
-        }}> Modify</button>
-      </div>
+    </div>
+
+    <Alert show={showAlert} variant="dark">
+        PlayerList has been updated to latest version!
+    </Alert>
+
+    
+
+
+      {/* Button style need optimization */}
+      <Modal show={show} onHide={handleClose}>
+        <Modal.Header closeButton>
+            <Modal.Title>
+                Customized Player
+            </Modal.Title>
+        </Modal.Header>
+        <Modal.Body>
+            <AddForm />
+        </Modal.Body>
+        <Modal.Footer>
+                <Button variant="secondary" onClick={handleClose}>
+                    Close
+                </Button>
+        </Modal.Footer>
+    </Modal>
 
       <div className='player-search'>
         <h1 className='player-text'>Search for Players</h1>
@@ -211,7 +174,7 @@ function App() {
       {filteredPlayers.map(player =>
         <div
           key={player.pID}> 
-          <div className = "card">
+          <div className = "card1">
             <p> Name <br /> {player.pName}</p>
             <p>Player_ID <br /> {player.pID}</p>
             <p>Season <br /> {player.pAttr}</p>
@@ -224,11 +187,18 @@ function App() {
             <p>PlayMaking <br /> {player.playMaking}</p>
             <p>Rebounding <br /> {player.rebounding}</p>
             <p>Defending <br /> {player.defending}</p>
-            <button onClick={() => { deletePlayer(player.pID); window.location.reload(); }}> Delete</button>
+            {/* <button onClick={() => { deletePlayer(player.pID); window.location.reload(); }}> Delete</button> */}
+            <button onClick={() => deletePlayer(player.pID)}  className="btn btn-act" data-toggle="modal"><FaIcons.RiDeleteBin5Line /></button>
             </div>
         </div>
       )}
+      <Pagination pages = {totalPagesNum}
+                setCurrentPage={setCurrentPage}
+                currentPlayer ={currentPlayer}
+                playersList = {playersList} />
     </div>
+    
+    // </div>
   );
 }
 

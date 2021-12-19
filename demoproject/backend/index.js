@@ -13,10 +13,6 @@ var db = mysql.createConnection({
     database:'cs411pt1',
 })
 
-
-// start cmd:
-// npm run devStart
-
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
@@ -25,9 +21,9 @@ app.use(express.json());
 app.get("/api/get", (require, response) => {
     const sqlSelect = "SELECT * FROM Players";
     db.query(sqlSelect, function (err, result, fields) {
+        //console.log(result);
         response.send(result);
         if (err) throw err;
-        //console.log(result);
     });
 });
 
@@ -36,8 +32,8 @@ app.put("/api/update/add_player/", (require, response) => {
     // TODO
     const sqlUpdate = "insert ignore into UserTeams values (" + require.body.userID + ", " + require.body.pID + ")";
     db.query(sqlUpdate, (err, result) => {
-        if (err) 
-        console.log(error);
+        if (err)
+            console.log(error);
     })
 });
 
@@ -46,6 +42,7 @@ app.get("/api/get/user/:userID", (require, response) => {
     const sqlSelect = "SELECT * FROM Users natural join UserTeams natural join Players WHERE uID = " + require.params.userID;
     db.query(sqlSelect, (err, result) => {
         response.send(result);
+        console.log(result);
     });
 });
 
@@ -69,10 +66,17 @@ app.put("/api/update/remove_player", (require, response) => {
 });
 
 // TODO: Generate a set of potential players for the user's team
-app.get("/api/get/investigator/:userID", (require, response) => {
-    const sqlSelect = "TODO;";
-    db.query(sqlSelect, (err, result) => {
+app.get("/api/get/investigator/", (require, response) => {
+    db.query("call cf", (err, result) => {
         response.send(result);
+        console.log(result);
+    });
+});
+
+app.get("/api/get/tournament/", (require, response) => {
+    db.query("call f", function (err, result, fields) {
+        response.send(result);
+        console.log(result);
     });
 });
 
@@ -82,27 +86,38 @@ app.delete("/api/delete/:pID", (require, response) => {
 
     const sqlDelete = "TODO";
     db.query(sqlDelete, movieName, (err, result) => {
-        if (err) 
-        console.log(error);
+        if (err)
+            console.log(error);
     })
 });
 
 // TODO: Insert/Update a player's information
 app.post("/api/modify/player", (require, response) => {
-    const pID = require.body.pID;
-    const pAttr = require.body.pAttr;
-    const teamID = require.body.teamID;
-    const pName = require.body.pName;
-    const pPos = require.body.pPos;
-    const pHeight = require.body.pHeight;
-    const pWeight = require.body.pWeight;
-    const overall = require.body.overall;
-    const insideScore = require.body.insideScore;
-    const outsideScore = require.body.outsideScore;
-    const athleticism = require.body.athleticism;
-    const playMaking = require.body.playMaking;
-    const rebounding = require.body.rebounding;
-    const defending = require.body.defending;
+    var pID = require.body.pID;
+    var pAttr = require.body.pAttr;
+    var teamID = require.body.teamID;
+    var pName = require.body.pName;
+    var pPos = require.body.pPos;
+    var pHeight = require.body.pHeight;
+    var pWeight = require.body.pWeight;
+    var overall = require.body.overall;
+    var insideScore = require.body.insideScore;
+    var outsideScore = require.body.outsideScore;
+    var athleticism = require.body.athleticism;
+    var playMaking = require.body.playMaking;
+    var rebounding = require.body.rebounding;
+    var defending = require.body.defending;
+    if (pID == '') throw err;
+    if (teamID == '') teamID = -1;
+    if (pHeight == '') pHeight = -1;
+    if (pWeight == '') pWeight = -1;
+    if (overall == '') overall = -1;
+    if (insideScore == '') insideScore = -1;
+    if (outsideScore == '') outsideScore = -1;
+    if (athleticism == '') athleticism = -1;
+    if (playMaking == '') playMaking = -1;
+    if (rebounding == '') rebounding = -1;
+    if (defending == '') defending = -1;
     var s = "update Players set pAttr=?, teamID=?, pName=?, pPos=?, pHeight=?, pWeight=?, overall=?, insideScore=?, outsideScore=?, athleticism=?, playMaking=?, rebounding=?, defending=? where pID=?";
     db.query(s, [pAttr, teamID, pName, pPos, pHeight, pWeight, overall, insideScore, outsideScore, athleticism, playMaking, rebounding, defending, pID], function (err, result) {
         if (err) throw err;
@@ -115,6 +130,7 @@ app.get("/api/get/mcprovider/:userID", (require, response) => {
     const sqlSelect = "SELECT * FROM MCProviders";
     db.query(sqlSelect, (err, result) => {
         response.send(result);
+        //console.log(result);
     });
 });
 
@@ -129,9 +145,9 @@ app.get("/api/get/mcprovider/", (require, response) => {
 // TODO: Change MCProvider for a user
 app.put("/api/update/mcprovider", (require, response) => {
     // TODO
-    db.query(sqlUpdate, [movieReview,movieName ], (err, result) => {
-        if (err) 
-        console.log(error);
+    db.query(sqlUpdate, [movieReview, movieName], (err, result) => {
+        if (err)
+            console.log(error);
     })
 });
 
@@ -147,7 +163,7 @@ app.get("/api/get/adv2/:teamNameLike/:arenaNameLike", (require, response) => {
     const teamNameLike = require.params.teamNameLike;
     const arenaNameLike = require.params.arenaNameLike;
     // the returning reuslt of this query is: arOpenYear, capacityBuilt
-    const sql = '(SELECT arOpenYear, AVG(arCapacity) as capacityBuilt FROM Teams NATURAL JOIN Arenas WHERE teamName LIKE "%'+teamNameLike+'%" GROUP BY arOpenYear ORDER BY arOpenYear DESC ) UNION (SELECT arOpenYear, AVG(arCapacity) as capacityBuilt FROM Teams NATURAL JOIN Arenas WHERE arName LIKE "%'+arenaNameLike+'%" GROUP BY arOpenYear ORDER BY arOpenYear DESC )';
+    const sql = '(SELECT arOpenYear, AVG(arCapacity) as capacityBuilt FROM Teams NATURAL JOIN Arenas WHERE teamName LIKE "%' + teamNameLike + '%" GROUP BY arOpenYear ORDER BY arOpenYear DESC ) UNION (SELECT arOpenYear, AVG(arCapacity) as capacityBuilt FROM Teams NATURAL JOIN Arenas WHERE arName LIKE "%' + arenaNameLike + '%" GROUP BY arOpenYear ORDER BY arOpenYear DESC )';
     db.query(sql, (err, result) => {
         response.send(result);
         if (err)

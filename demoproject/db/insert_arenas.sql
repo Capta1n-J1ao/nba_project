@@ -509,7 +509,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -526,7 +526,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -543,7 +543,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -560,7 +560,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -577,7 +577,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -594,7 +594,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -611,7 +611,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -628,7 +628,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -645,7 +645,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -662,7 +662,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -679,7 +679,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -696,7 +696,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -713,7 +713,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -730,7 +730,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -747,7 +747,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -764,7 +764,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -781,7 +781,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -798,7 +798,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -815,7 +815,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -832,7 +832,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -849,7 +849,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -866,7 +866,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -883,7 +883,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -900,7 +900,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -917,7 +917,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -934,7 +934,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -951,7 +951,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -968,7 +968,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -985,7 +985,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1002,7 +1002,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1019,7 +1019,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1036,7 +1036,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1053,7 +1053,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1070,7 +1070,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1087,7 +1087,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1104,7 +1104,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1121,7 +1121,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1138,7 +1138,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1155,7 +1155,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1172,7 +1172,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1189,7 +1189,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1206,7 +1206,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1223,7 +1223,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1240,7 +1240,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1257,7 +1257,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1274,7 +1274,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1291,7 +1291,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1308,7 +1308,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1325,7 +1325,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1342,7 +1342,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1359,7 +1359,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1376,7 +1376,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1393,7 +1393,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1410,7 +1410,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1427,7 +1427,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1444,7 +1444,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1461,7 +1461,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1478,7 +1478,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1495,7 +1495,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1512,7 +1512,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1529,7 +1529,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1546,7 +1546,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1563,7 +1563,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1580,7 +1580,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1597,7 +1597,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1614,7 +1614,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1631,7 +1631,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1648,7 +1648,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1665,7 +1665,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1682,7 +1682,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1699,7 +1699,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1716,7 +1716,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1733,7 +1733,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1750,7 +1750,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1767,7 +1767,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1784,7 +1784,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1801,7 +1801,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1818,7 +1818,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1835,7 +1835,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1852,7 +1852,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1869,7 +1869,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1886,7 +1886,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1903,7 +1903,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1920,7 +1920,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1937,7 +1937,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1954,7 +1954,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1971,7 +1971,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -1988,7 +1988,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2005,7 +2005,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2022,7 +2022,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2039,7 +2039,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2056,7 +2056,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2073,7 +2073,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2090,7 +2090,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2107,7 +2107,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2124,7 +2124,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2141,7 +2141,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2158,7 +2158,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2175,7 +2175,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2192,7 +2192,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2209,7 +2209,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2226,7 +2226,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2243,7 +2243,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2260,7 +2260,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2277,7 +2277,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2294,7 +2294,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2311,7 +2311,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2328,7 +2328,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2345,7 +2345,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2362,7 +2362,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2379,7 +2379,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2396,7 +2396,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2413,7 +2413,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2430,7 +2430,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2447,7 +2447,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2464,7 +2464,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2481,7 +2481,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2498,7 +2498,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2515,7 +2515,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2532,7 +2532,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2549,7 +2549,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2566,7 +2566,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2583,7 +2583,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2600,7 +2600,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2617,7 +2617,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2634,7 +2634,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2651,7 +2651,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2668,7 +2668,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2685,7 +2685,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2702,7 +2702,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2719,7 +2719,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2736,7 +2736,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2753,7 +2753,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2770,7 +2770,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2787,7 +2787,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2804,7 +2804,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2821,7 +2821,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2838,7 +2838,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2855,7 +2855,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2872,7 +2872,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2889,7 +2889,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2906,7 +2906,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2923,7 +2923,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2940,7 +2940,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2957,7 +2957,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2974,7 +2974,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -2991,7 +2991,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3008,7 +3008,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3025,7 +3025,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3042,7 +3042,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3059,7 +3059,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3076,7 +3076,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3093,7 +3093,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3110,7 +3110,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3127,7 +3127,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3144,7 +3144,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3161,7 +3161,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3178,7 +3178,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3195,7 +3195,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3212,7 +3212,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3229,7 +3229,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3246,7 +3246,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3263,7 +3263,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3280,7 +3280,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3297,7 +3297,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3314,7 +3314,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3331,7 +3331,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3348,7 +3348,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3365,7 +3365,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3382,7 +3382,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3399,7 +3399,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3416,7 +3416,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3433,7 +3433,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3450,7 +3450,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3467,7 +3467,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3484,7 +3484,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3501,7 +3501,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3518,7 +3518,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3535,7 +3535,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3552,7 +3552,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3569,7 +3569,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3586,7 +3586,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3603,7 +3603,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3620,7 +3620,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3637,7 +3637,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3654,7 +3654,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3671,7 +3671,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3688,7 +3688,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3705,7 +3705,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3722,7 +3722,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3739,7 +3739,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3756,7 +3756,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3773,7 +3773,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3790,7 +3790,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3807,7 +3807,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3824,7 +3824,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3841,7 +3841,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3858,7 +3858,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3875,7 +3875,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3892,7 +3892,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3909,7 +3909,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3926,7 +3926,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3943,7 +3943,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3960,7 +3960,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3977,7 +3977,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -3994,7 +3994,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4011,7 +4011,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4028,7 +4028,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4045,7 +4045,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4062,7 +4062,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4079,7 +4079,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4096,7 +4096,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4113,7 +4113,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4130,7 +4130,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4147,7 +4147,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4164,7 +4164,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4181,7 +4181,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4198,7 +4198,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4215,7 +4215,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4232,7 +4232,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4249,7 +4249,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4266,7 +4266,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4283,7 +4283,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4300,7 +4300,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4317,7 +4317,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4334,7 +4334,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4351,7 +4351,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4368,7 +4368,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4385,7 +4385,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4402,7 +4402,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4419,7 +4419,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4436,7 +4436,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4453,7 +4453,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4470,7 +4470,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4487,7 +4487,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4504,7 +4504,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4521,7 +4521,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4538,7 +4538,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4555,7 +4555,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4572,7 +4572,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4589,7 +4589,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4606,7 +4606,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4623,7 +4623,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4640,7 +4640,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4657,7 +4657,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4674,7 +4674,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4691,7 +4691,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4708,7 +4708,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4725,7 +4725,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4742,7 +4742,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4759,7 +4759,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4776,7 +4776,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4793,7 +4793,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4810,7 +4810,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4827,7 +4827,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4844,7 +4844,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4861,7 +4861,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4878,7 +4878,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4895,7 +4895,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4912,7 +4912,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4929,7 +4929,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4946,7 +4946,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4963,7 +4963,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4980,7 +4980,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -4997,7 +4997,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5014,7 +5014,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5031,7 +5031,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5048,7 +5048,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5065,7 +5065,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5082,7 +5082,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5099,7 +5099,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5116,7 +5116,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5133,7 +5133,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5150,7 +5150,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5167,7 +5167,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5184,7 +5184,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5201,7 +5201,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5218,7 +5218,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5235,7 +5235,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5252,7 +5252,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5269,7 +5269,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5286,7 +5286,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5303,7 +5303,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5320,7 +5320,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5337,7 +5337,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5354,7 +5354,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5371,7 +5371,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5388,7 +5388,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5405,7 +5405,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5422,7 +5422,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5439,7 +5439,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5456,7 +5456,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5473,7 +5473,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5490,7 +5490,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5507,7 +5507,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5524,7 +5524,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5541,7 +5541,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5558,7 +5558,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5575,7 +5575,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5592,7 +5592,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5609,7 +5609,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5626,7 +5626,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5643,7 +5643,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5660,7 +5660,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5677,7 +5677,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5694,7 +5694,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5711,7 +5711,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5728,7 +5728,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5745,7 +5745,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5762,7 +5762,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5779,7 +5779,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5796,7 +5796,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5813,7 +5813,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5830,7 +5830,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5847,7 +5847,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5864,7 +5864,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5881,7 +5881,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5898,7 +5898,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5915,7 +5915,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5932,7 +5932,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5949,7 +5949,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5966,7 +5966,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -5983,7 +5983,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6000,7 +6000,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6017,7 +6017,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6034,7 +6034,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6051,7 +6051,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6068,7 +6068,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6085,7 +6085,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6102,7 +6102,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6119,7 +6119,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6136,7 +6136,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6153,7 +6153,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6170,7 +6170,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6187,7 +6187,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6204,7 +6204,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6221,7 +6221,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6238,7 +6238,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6255,7 +6255,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6272,7 +6272,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6289,7 +6289,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6306,7 +6306,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6323,7 +6323,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6340,7 +6340,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6357,7 +6357,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6374,7 +6374,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6391,7 +6391,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6408,7 +6408,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6425,7 +6425,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6442,7 +6442,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6459,7 +6459,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6476,7 +6476,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6493,7 +6493,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6510,7 +6510,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6527,7 +6527,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6544,7 +6544,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6561,7 +6561,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6578,7 +6578,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6595,7 +6595,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6612,7 +6612,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6629,7 +6629,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6646,7 +6646,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6663,7 +6663,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6680,7 +6680,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6697,7 +6697,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6714,7 +6714,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6731,7 +6731,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6748,7 +6748,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6765,7 +6765,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6782,7 +6782,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6799,7 +6799,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6816,7 +6816,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6833,7 +6833,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6850,7 +6850,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6867,7 +6867,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6884,7 +6884,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6901,7 +6901,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6918,7 +6918,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6935,7 +6935,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6952,7 +6952,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6969,7 +6969,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -6986,7 +6986,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7003,7 +7003,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7020,7 +7020,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7037,7 +7037,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7054,7 +7054,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7071,7 +7071,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7088,7 +7088,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7105,7 +7105,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7122,7 +7122,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7139,7 +7139,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7156,7 +7156,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7173,7 +7173,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7190,7 +7190,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7207,7 +7207,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7224,7 +7224,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7241,7 +7241,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7258,7 +7258,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7275,7 +7275,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7292,7 +7292,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7309,7 +7309,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7326,7 +7326,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7343,7 +7343,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7360,7 +7360,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7377,7 +7377,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7394,7 +7394,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7411,7 +7411,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7428,7 +7428,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7445,7 +7445,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7462,7 +7462,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7479,7 +7479,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7496,7 +7496,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7513,7 +7513,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7530,7 +7530,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7547,7 +7547,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7564,7 +7564,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7581,7 +7581,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7598,7 +7598,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7615,7 +7615,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7632,7 +7632,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7649,7 +7649,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7666,7 +7666,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7683,7 +7683,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7700,7 +7700,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7717,7 +7717,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7734,7 +7734,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7751,7 +7751,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7768,7 +7768,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7785,7 +7785,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7802,7 +7802,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7819,7 +7819,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7836,7 +7836,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7853,7 +7853,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7870,7 +7870,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7887,7 +7887,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7904,7 +7904,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7921,7 +7921,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7938,7 +7938,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7955,7 +7955,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7972,7 +7972,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -7989,7 +7989,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8006,7 +8006,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8023,7 +8023,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8040,7 +8040,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8057,7 +8057,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8074,7 +8074,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8091,7 +8091,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8108,7 +8108,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8125,7 +8125,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8142,7 +8142,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8159,7 +8159,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8176,7 +8176,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8193,7 +8193,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8210,7 +8210,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8227,7 +8227,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8244,7 +8244,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8261,7 +8261,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8278,7 +8278,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8295,7 +8295,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8312,7 +8312,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8329,7 +8329,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8346,7 +8346,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8363,7 +8363,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8380,7 +8380,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8397,7 +8397,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8414,7 +8414,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8431,7 +8431,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8448,7 +8448,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8465,7 +8465,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8482,7 +8482,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8499,7 +8499,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8516,7 +8516,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8533,7 +8533,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8550,7 +8550,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8567,7 +8567,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8584,7 +8584,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8601,7 +8601,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8618,7 +8618,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8635,7 +8635,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8652,7 +8652,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8669,7 +8669,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8686,7 +8686,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8703,7 +8703,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8720,7 +8720,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8737,7 +8737,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8754,7 +8754,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8771,7 +8771,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8788,7 +8788,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8805,7 +8805,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8822,7 +8822,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8839,7 +8839,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8856,7 +8856,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8873,7 +8873,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8890,7 +8890,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8907,7 +8907,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8924,7 +8924,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8941,7 +8941,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8958,7 +8958,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8975,7 +8975,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -8992,7 +8992,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9009,7 +9009,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9026,7 +9026,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9043,7 +9043,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9060,7 +9060,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9077,7 +9077,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9094,7 +9094,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9111,7 +9111,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9128,7 +9128,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9145,7 +9145,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9162,7 +9162,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9179,7 +9179,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9196,7 +9196,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9213,7 +9213,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9230,7 +9230,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9247,7 +9247,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9264,7 +9264,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9281,7 +9281,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9298,7 +9298,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9315,7 +9315,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9332,7 +9332,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9349,7 +9349,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9366,7 +9366,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9383,7 +9383,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9400,7 +9400,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9417,7 +9417,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9434,7 +9434,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9451,7 +9451,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9468,7 +9468,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9485,7 +9485,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9502,7 +9502,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9519,7 +9519,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9536,7 +9536,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9553,7 +9553,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9570,7 +9570,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9587,7 +9587,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9604,7 +9604,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9621,7 +9621,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9638,7 +9638,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9655,7 +9655,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9672,7 +9672,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9689,7 +9689,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9706,7 +9706,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9723,7 +9723,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9740,7 +9740,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9757,7 +9757,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9774,7 +9774,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9791,7 +9791,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9808,7 +9808,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9825,7 +9825,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9842,7 +9842,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9859,7 +9859,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9876,7 +9876,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9893,7 +9893,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9910,7 +9910,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9927,7 +9927,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9944,7 +9944,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9961,7 +9961,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9978,7 +9978,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -9995,7 +9995,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10012,7 +10012,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10029,7 +10029,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10046,7 +10046,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10063,7 +10063,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10080,7 +10080,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10097,7 +10097,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10114,7 +10114,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10131,7 +10131,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10148,7 +10148,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10165,7 +10165,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10182,7 +10182,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10199,7 +10199,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10216,7 +10216,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10233,7 +10233,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10250,7 +10250,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10267,7 +10267,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10284,7 +10284,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10301,7 +10301,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10318,7 +10318,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10335,7 +10335,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10352,7 +10352,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10369,7 +10369,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10386,7 +10386,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10403,7 +10403,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10420,7 +10420,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10437,7 +10437,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10454,7 +10454,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10471,7 +10471,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10488,7 +10488,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10505,7 +10505,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10522,7 +10522,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10539,7 +10539,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10556,7 +10556,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10573,7 +10573,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10590,7 +10590,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10607,7 +10607,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10624,7 +10624,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10641,7 +10641,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10658,7 +10658,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10675,7 +10675,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10692,7 +10692,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10709,7 +10709,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10726,7 +10726,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10743,7 +10743,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10760,7 +10760,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10777,7 +10777,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10794,7 +10794,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10811,7 +10811,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10828,7 +10828,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10845,7 +10845,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10862,7 +10862,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10879,7 +10879,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10896,7 +10896,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10913,7 +10913,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10930,7 +10930,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10947,7 +10947,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10964,7 +10964,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10981,7 +10981,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -10998,7 +10998,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11015,7 +11015,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11032,7 +11032,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11049,7 +11049,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11066,7 +11066,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11083,7 +11083,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11100,7 +11100,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11117,7 +11117,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11134,7 +11134,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11151,7 +11151,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11168,7 +11168,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11185,7 +11185,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11202,7 +11202,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11219,7 +11219,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11236,7 +11236,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11253,7 +11253,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11270,7 +11270,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11287,7 +11287,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11304,7 +11304,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11321,7 +11321,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11338,7 +11338,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11355,7 +11355,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11372,7 +11372,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11389,7 +11389,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11406,7 +11406,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11423,7 +11423,7 @@ values(
     '2014'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11440,7 +11440,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11457,7 +11457,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11474,7 +11474,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11491,7 +11491,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11508,7 +11508,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11525,7 +11525,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11542,7 +11542,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11559,7 +11559,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11576,7 +11576,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11593,7 +11593,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11610,7 +11610,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11627,7 +11627,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11644,7 +11644,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11661,7 +11661,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11678,7 +11678,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11695,7 +11695,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11712,7 +11712,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11729,7 +11729,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11746,7 +11746,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11763,7 +11763,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11780,7 +11780,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11797,7 +11797,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11814,7 +11814,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11831,7 +11831,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11848,7 +11848,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11865,7 +11865,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11882,7 +11882,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11899,7 +11899,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11916,7 +11916,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11933,7 +11933,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11950,7 +11950,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11967,7 +11967,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -11984,7 +11984,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12001,7 +12001,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12018,7 +12018,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12035,7 +12035,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12052,7 +12052,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12069,7 +12069,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12086,7 +12086,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12103,7 +12103,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12120,7 +12120,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12137,7 +12137,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12154,7 +12154,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12171,7 +12171,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12188,7 +12188,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12205,7 +12205,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12222,7 +12222,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12239,7 +12239,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12256,7 +12256,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12273,7 +12273,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12290,7 +12290,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12307,7 +12307,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12324,7 +12324,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12341,7 +12341,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12358,7 +12358,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12375,7 +12375,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12392,7 +12392,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12409,7 +12409,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12426,7 +12426,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12443,7 +12443,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12460,7 +12460,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12477,7 +12477,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12494,7 +12494,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12511,7 +12511,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12528,7 +12528,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12545,7 +12545,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12562,7 +12562,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12579,7 +12579,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12596,7 +12596,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12613,7 +12613,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12630,7 +12630,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12647,7 +12647,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12664,7 +12664,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12681,7 +12681,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12698,7 +12698,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12715,7 +12715,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12732,7 +12732,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12749,7 +12749,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12766,7 +12766,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12783,7 +12783,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12800,7 +12800,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12817,7 +12817,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12834,7 +12834,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12851,7 +12851,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12868,7 +12868,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12885,7 +12885,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12902,7 +12902,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12919,7 +12919,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12936,7 +12936,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12953,7 +12953,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12970,7 +12970,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -12987,7 +12987,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13004,7 +13004,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13021,7 +13021,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13038,7 +13038,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13055,7 +13055,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13072,7 +13072,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13089,7 +13089,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13106,7 +13106,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13123,7 +13123,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13140,7 +13140,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13157,7 +13157,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13174,7 +13174,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13191,7 +13191,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13208,7 +13208,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13225,7 +13225,7 @@ values(
     '1982'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13242,7 +13242,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13259,7 +13259,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13276,7 +13276,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13293,7 +13293,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13310,7 +13310,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13327,7 +13327,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13344,7 +13344,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13361,7 +13361,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13378,7 +13378,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13395,7 +13395,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13412,7 +13412,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13429,7 +13429,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13446,7 +13446,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13463,7 +13463,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13480,7 +13480,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13497,7 +13497,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13514,7 +13514,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13531,7 +13531,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13548,7 +13548,7 @@ values(
     '1986'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13565,7 +13565,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13582,7 +13582,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13599,7 +13599,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13616,7 +13616,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13633,7 +13633,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13650,7 +13650,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13667,7 +13667,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13684,7 +13684,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13701,7 +13701,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13718,7 +13718,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13735,7 +13735,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13752,7 +13752,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13769,7 +13769,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13786,7 +13786,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13803,7 +13803,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13820,7 +13820,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13837,7 +13837,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13854,7 +13854,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13871,7 +13871,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13888,7 +13888,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13905,7 +13905,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13922,7 +13922,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13939,7 +13939,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13956,7 +13956,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13973,7 +13973,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -13990,7 +13990,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14007,7 +14007,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14024,7 +14024,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14041,7 +14041,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14058,7 +14058,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14075,7 +14075,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14092,7 +14092,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14109,7 +14109,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14126,7 +14126,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14143,7 +14143,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14160,7 +14160,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14177,7 +14177,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14194,7 +14194,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14211,7 +14211,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14228,7 +14228,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14245,7 +14245,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14262,7 +14262,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14279,7 +14279,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14296,7 +14296,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14313,7 +14313,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14330,7 +14330,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14347,7 +14347,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14364,7 +14364,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14381,7 +14381,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14398,7 +14398,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14415,7 +14415,7 @@ values(
     '2000'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14432,7 +14432,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14449,7 +14449,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14466,7 +14466,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14483,7 +14483,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14500,7 +14500,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14517,7 +14517,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14534,7 +14534,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14551,7 +14551,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14568,7 +14568,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14585,7 +14585,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14602,7 +14602,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14619,7 +14619,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14636,7 +14636,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14653,7 +14653,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14670,7 +14670,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14687,7 +14687,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14704,7 +14704,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14721,7 +14721,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14738,7 +14738,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14755,7 +14755,7 @@ values(
     '1985'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14772,7 +14772,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14789,7 +14789,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14806,7 +14806,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14823,7 +14823,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14840,7 +14840,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14857,7 +14857,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14874,7 +14874,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14891,7 +14891,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14908,7 +14908,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14925,7 +14925,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14942,7 +14942,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14959,7 +14959,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14976,7 +14976,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -14993,7 +14993,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15010,7 +15010,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15027,7 +15027,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15044,7 +15044,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15061,7 +15061,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15078,7 +15078,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15095,7 +15095,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15112,7 +15112,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15129,7 +15129,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15146,7 +15146,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15163,7 +15163,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15180,7 +15180,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15197,7 +15197,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15214,7 +15214,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15231,7 +15231,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15248,7 +15248,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15265,7 +15265,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15282,7 +15282,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15299,7 +15299,7 @@ values(
     '2020'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15316,7 +15316,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15333,7 +15333,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15350,7 +15350,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15367,7 +15367,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15384,7 +15384,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15401,7 +15401,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15418,7 +15418,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15435,7 +15435,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15452,7 +15452,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15469,7 +15469,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15486,7 +15486,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15503,7 +15503,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15520,7 +15520,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15537,7 +15537,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15554,7 +15554,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15571,7 +15571,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15588,7 +15588,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15605,7 +15605,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15622,7 +15622,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15639,7 +15639,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15656,7 +15656,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15673,7 +15673,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15690,7 +15690,7 @@ values(
     '2019'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15707,7 +15707,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15724,7 +15724,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15741,7 +15741,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15758,7 +15758,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15775,7 +15775,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15792,7 +15792,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15809,7 +15809,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15826,7 +15826,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15843,7 +15843,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15860,7 +15860,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15877,7 +15877,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15894,7 +15894,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15911,7 +15911,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15928,7 +15928,7 @@ values(
     '1995'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15945,7 +15945,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15962,7 +15962,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15979,7 +15979,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -15996,7 +15996,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16013,7 +16013,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16030,7 +16030,7 @@ values(
     '1977'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16047,7 +16047,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16064,7 +16064,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16081,7 +16081,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16098,7 +16098,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16115,7 +16115,7 @@ values(
     '1980'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16132,7 +16132,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16149,7 +16149,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16166,7 +16166,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16183,7 +16183,7 @@ values(
     '2013'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16200,7 +16200,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16217,7 +16217,7 @@ values(
     '2008'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16234,7 +16234,7 @@ values(
     '1992'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16251,7 +16251,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16268,7 +16268,7 @@ values(
     '1983'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16285,7 +16285,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16302,7 +16302,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16319,7 +16319,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16336,7 +16336,7 @@ values(
     '1993'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16353,7 +16353,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16370,7 +16370,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16387,7 +16387,7 @@ values(
     '1996'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16404,7 +16404,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16421,7 +16421,7 @@ values(
     '2006'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16438,7 +16438,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16455,7 +16455,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16472,7 +16472,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16489,7 +16489,7 @@ values(
     '1975'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16506,7 +16506,7 @@ values(
     '1989'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16523,7 +16523,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16540,7 +16540,7 @@ values(
     '2005'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16557,7 +16557,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16574,7 +16574,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16591,7 +16591,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16608,7 +16608,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16625,7 +16625,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16642,7 +16642,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16659,7 +16659,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16676,7 +16676,7 @@ values(
     '1981'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16693,7 +16693,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16710,7 +16710,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16727,7 +16727,7 @@ values(
     '1987'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16744,7 +16744,7 @@ values(
     '2015'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16761,7 +16761,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16778,7 +16778,7 @@ values(
     '1991'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16795,7 +16795,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16812,7 +16812,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16829,7 +16829,7 @@ values(
     '1973'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16846,7 +16846,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16863,7 +16863,7 @@ values(
     '1976'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16880,7 +16880,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16897,7 +16897,7 @@ values(
     '2002'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16914,7 +16914,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16931,7 +16931,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16948,7 +16948,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16965,7 +16965,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16982,7 +16982,7 @@ values(
     '1998'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -16999,7 +16999,7 @@ values(
     '2010'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17016,7 +17016,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17033,7 +17033,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17050,7 +17050,7 @@ values(
     '1979'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17067,7 +17067,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17084,7 +17084,7 @@ values(
     '1990'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17101,7 +17101,7 @@ values(
     '2017'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17118,7 +17118,7 @@ values(
     '1997'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17135,7 +17135,7 @@ values(
     '2016'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17152,7 +17152,7 @@ values(
     '1971'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17169,7 +17169,7 @@ values(
     '1970'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17186,7 +17186,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17203,7 +17203,7 @@ values(
     '1972'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17220,7 +17220,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17237,7 +17237,7 @@ values(
     '2003'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17254,7 +17254,7 @@ values(
     '1999'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17271,7 +17271,7 @@ values(
     '1974'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17288,7 +17288,7 @@ values(
     '2001'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17305,7 +17305,7 @@ values(
     '2018'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17322,7 +17322,7 @@ values(
     '1988'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17339,7 +17339,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17356,7 +17356,7 @@ values(
     '1994'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17373,7 +17373,7 @@ values(
     '1984'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17390,7 +17390,7 @@ values(
     '2004'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17407,7 +17407,7 @@ values(
     '1978'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17424,7 +17424,7 @@ values(
     '2007'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17441,7 +17441,7 @@ values(
     '2012'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17458,7 +17458,7 @@ values(
     '2009'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
@@ -17475,7 +17475,7 @@ values(
     '2011'
   );
 insert into
-  `arenas` (
+  `Arenas` (
     `arenaID`,
     `teamID`,
     `arName`,
